@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Upload.Service", "S3Upload.Service\S3Upload.Service.csproj", "{B63155C7-4CD6-4FD2-BCFC-87E002666F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Upload.Client", "S3Upload.Client\S3Upload.Client.csproj", "{EA21B213-7B3C-41DC-938C-9DBAC2B0C211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63155C7-4CD6-4FD2-BCFC-87E002666F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63155C7-4CD6-4FD2-BCFC-87E002666F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63155C7-4CD6-4FD2-BCFC-87E002666F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63155C7-4CD6-4FD2-BCFC-87E002666F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA21B213-7B3C-41DC-938C-9DBAC2B0C211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA21B213-7B3C-41DC-938C-9DBAC2B0C211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA21B213-7B3C-41DC-938C-9DBAC2B0C211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA21B213-7B3C-41DC-938C-9DBAC2B0C211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
